@@ -15,6 +15,14 @@ There has been notification from the school board that academic dishonesty has o
   * **Scores by school size:** Research reveals that smaller and medium schools typically score higher than larger schools. For example, small size schools (< 1000) have an average math score of 83.8% and large schools (2000-5000) have an average math score of 77.7%. 
   * **Scores by school type:** In average math and science scores and passing percentages, charter schools scored higher than district schools. THS is a charter school. Even though their school ranking summary signifigantly dropped after including two Nan scores, they are still in the top 53% of schools within the district.
 
+## Images
+
+![A](https://github.com/wolfi584/School_District_Analysis/blob/main/Resources/THS%20school%20stats.PNG?raw=true)
+![B](https://github.com/wolfi584/School_District_Analysis/blob/main/Resources/district%20vs.%20charter%20schools.PNG?raw=true)
+![C](https://github.com/wolfi584/School_District_Analysis/blob/main/Resources/school%20size%20and%20scores.PNG?raw=true)
+![D](https://github.com/wolfi584/School_District_Analysis/blob/main/Resources/scores%20by%20school%20size.PNG?raw=true)
+![E](https://github.com/wolfi584/School_District_Analysis/blob/main/Resources/spending%20ranges%20per%20student.PNG?raw=true)
+
 ## Summary
 In conclusion, removing the 9th and 10th grade reading and math scores from THS signifigantly affects many factors in the school district performance analysis. School rankings within the district, overall passing district percentage, a decrease in average THS math/science scores, and a potential change in funding for THS are all factors that change simple from removing two scores.
 
